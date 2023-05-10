@@ -1,9 +1,9 @@
 # bgp-hijacks-final-project
 # Installation Dependencies
-scipy:  pip install scipy 
-bgpstream: brew install bgpstream
-pybgypstream: pip install pybgpstream
-NetworkX: pip install networkx
+- scipy:  pip install scipy 
+- bgpstream: brew install bgpstream
+- pybgypstream: pip install pybgpstream
+- NetworkX: pip install networkx
 
 # How to run our code 
 - Open jupyter notebook. Run through all the cells in order.
